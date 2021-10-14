@@ -1,0 +1,558 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 374.98px) {
+    /* header start */
+    header {
+        padding: 5px 0;
+    }
+    .menu ul {
+        margin-top: 25px;
+    }
+    .menu ul li {
+        text-align: end;
+        margin-left: 0px;
+    }
+    /* header end */
+
+    /* banner start */
+    .banner {
+        padding: 25px 0;
+    }
+    .common_txt {
+        margin-top: 0px;
+        text-align: center;
+        background-color: rgba(0,0,0,.2);
+        padding: 13px 0px;
+    }
+    .common_txt span {
+        font-size: 15px;
+    }
+    .common_txt h2 {
+        font-size: 20px;
+        padding-right: 0px;
+    }
+    .common_txt p {
+        margin: 10px 0;
+        padding-right: 0px;
+        color: white;
+    }
+    .banner_btn {
+        padding: 7px 19px;
+        font-size: 12px;
+    }
+    /* banner end */
+
+    /* about start */
+    .about {
+        padding: 70px 0;
+    }
+    .about_txt {
+        text-align: center;
+        margin-top: 50px;
+        padding-left: 0px;
+    }
+    .about_txt h2 {
+        font-size: 26px;
+        padding-right: 0px;
+    }
+    .about_txt strong {
+        font-size: 13px;
+    }
+    .about_txt p {
+        margin: 25px 0;
+        padding: 0 10px;
+    }
+    /* about end */
+
+     /* service start */
+     .common_title {
+        margin-bottom: 60px;
+    }
+     .common_title h1 {
+        font-size: 35px;
+    }
+    .service_single {
+        margin-bottom: 60px;
+    }
+    /* service end */
+
+    /* work start */
+    .work_txt {
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 35px;
+        text-align: center;
+    }
+    .work_txt h2 {
+        font-size: 30px;
+        padding-right: 0;
+    }
+    .work_txt p {
+        margin: 5px 0;
+        padding-right: 0px;
+    }
+    
+    /* work end */
+
+    /* fact start */
+    .facts {
+        padding: 60px 0;
+    }
+    .single_fact {
+        text-align: center;
+        margin-bottom: 55px;
+    }
+    .fact_no h3 {
+        font-size: 40px;
+    }
+    .fact_p p {
+        font-size: 16px;
+    }
+    /* fact end */
+
+     /* testimonial start */
+     .test_slider {
+        margin-top: 0px;
+        text-align: center;
+    }
+    .test_slider p {
+        padding-right: 0px;
+        margin-top: 22px;
+    }
+    .ccp {
+        left: 8px;
+        bottom: 195px;
+    }
+    .ccn {
+        right: 12px;
+        bottom: 195px;
+    }
+    /* testimonial end */
+
+    /* team start */
+    .tm_single {
+        margin-bottom: 60px;
+    }
+    /* team end */
+
+    /* blog start */
+    .blog_single {
+        margin-bottom: 60px;
+    }
+    /* blog end */
+
+     /* contact start */
+     .con_ct {
+        text-align: center;
+    }
+    .c_control {
+        margin-bottom: 20px;
+        padding: 9px 20px;
+    }
+    .c_control2 {
+        margin-bottom: 20px;
+        padding: 9px 20px;
+    }
+    .c_control3 {
+        padding-bottom: 90px;
+    }
+    /* contact end */
+
+    /* contact end */
+
+    /* footer top start */
+    footer {
+        padding: 60px 0;
+    }
+    .footer_wrapper {
+        text-align: center;
+        margin-bottom: 70px;
+    }
+    /* footer top end */
+
+}
+
+
+
+@media (min-width: 375px) and (max-width: 575.98px) {
+    h1{
+        color: rgb(22, 247, 255);
+    }
+
+}
+
+
+ /* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /* header start */
+    .menu ul li {
+        text-align: center;
+        margin-left: 0px;
+    }
+    /* header end */
+
+    /* banner start */
+    .banner {
+        padding: 0px 0;
+        padding-bottom: 45px;
+    }
+    .common_txt {
+        margin-top: 60px;
+    
+    }
+    .common_txt h2 {
+        font-size: 35px;
+        padding-right: 200px;
+    }
+    .common_txt p {
+        margin: 18px 0;
+        padding-right: 220px;
+    }
+    .banner_btn {
+        padding: 8px 25px;
+        font-size: 13px;
+    }
+    /* banner end */
+
+    /* about start */
+    .about {
+        padding: 70px 0;
+    }
+    .about_txt {
+        margin-top: 50px;
+        padding-left: 0px;
+        text-align: center;
+    }
+    .about_txt h2 {
+        font-size: 42px;
+        padding-right: 0px;
+    }
+    .about_txt p {
+        margin: 33px 0;
+        padding: 0 35px;
+    }
+    /* about end */
+
+    /* service start */
+    .common_title {
+        margin-bottom: 60px;
+    }
+    .common_title h1 {
+        font-size: 35px;
+    }
+    .service_single {
+        margin-bottom: 60px;
+    }
+    /* service end */
+
+    /* work start */
+    .work_txt {
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 35px;
+        text-align: center;
+    }
+    .work_txt h2 {
+        font-size: 30px;
+        padding-right: 0;
+    }
+    .work_txt p {
+        margin: 5px 0;
+        padding-right: 0px;
+    }
+    
+    /* work end */
+
+    /* fact start */
+    .facts {
+        padding: 60px 0;
+    }
+    .single_fact {
+        text-align: center;
+        margin-bottom: 65px;
+    }
+    /* fact end */
+
+    /* testimonial start */
+    .test_video img {
+        margin-bottom: 15px;
+    }
+    .test_slider {
+        margin-top: 70px;
+        text-align: center;
+    }
+    .test_slider p {
+        padding-right: 0px;
+        margin-top: 22px;
+    }
+    .ccp {
+        left: 58px;
+        bottom: 198px;
+    }
+    .ccn {
+        right: 60px;
+        bottom: 198px;
+    }
+    /* testimonial end */
+
+    /* team start */
+    .tm_single {
+        margin-bottom: 60px;
+    }
+    /* team end */
+
+    /* blog start */
+    .blog_single {
+        margin-bottom: 60px;
+    }
+    /* blog end */
+
+    /* contact start */
+    .con_ct {
+        text-align: center;
+    }
+    /* contact end */
+
+    /* footer top start */
+    footer {
+        padding: 80px 0;
+    }
+    .footer_wrapper {
+        text-align: center;
+        margin-bottom: 70px;
+    }
+    /* footer top end */
+
+
+}
+
+
+ /* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    /* banner start */
+    .banner {
+        padding: 25px 0;
+    }
+    .common_txt {
+        margin-top: 60px;
+    
+    }
+    .common_txt h2 {
+        font-size: 45px;
+        padding-right: 300px;
+    }
+    .common_txt p {
+        margin: 18px 0;
+        padding-right: 300px;
+    }
+    /* banner end */
+
+    /* about start */
+    .about {
+        padding: 80px 0;
+    }
+    .about_image img {
+        margin-top: 50px;
+    }
+    .about_txt {
+        margin-top: 0px;
+        padding-left: 50px;
+    }
+    .about_txt span {
+        font-size: 13px;
+    }
+    .about_txt h2 {
+        font-size: 22px;
+        padding-right: 100px;
+    }
+    .about_txt strong {
+        font-size: 16px;
+    }
+    .about_txt p {
+        margin: 18px 0;
+        padding-right: 0px;
+    }
+    /* about end */
+
+    /* service start */
+    .common_title {
+        margin-bottom: 80px;
+    }
+    .service_single {
+        margin-bottom: 80px;
+    }
+    /* service end */
+
+     /* work start */
+     .work_txt {
+        margin-left: 35px;
+        margin-top: 0px;
+    }
+    .work_txt h2 {
+        font-size: 21px;
+        padding-right: 11px;
+    }
+    .work_txt p {
+        margin: 11px 0;
+        padding-right: 12px;
+        font-size: 13px;
+    }
+    .work_btn {
+        padding-left: 0px;
+    }
+    /* work end */
+
+    /* fact start */
+    .facts {
+        padding: 80px 0;
+        margin-bottom: 80px;
+    }
+    .single_fact {
+        text-align: center;
+        margin-bottom: 65px;
+    }
+    .fact_no h3 {
+        font-size: 45px;
+    }
+    .fact_p p {
+        font-size: 20px;
+    }
+    /* fact end */
+
+    /* testimonial start */
+    .ccp {
+        left: 185px;
+        bottom: 175px;
+    }
+    .ccn {
+        right: 118px;
+        bottom: 250px;
+    }
+    .test_slider {
+        margin-top: 0px;
+    }
+    .test_slider p {
+        padding-right: 0px;
+    }
+    /* testimonial end */
+
+    /* team start */
+    .tm_single {
+        margin-bottom: 80px;
+    }
+    /* team end */
+
+    /* blog start */
+    .blog_single {
+        margin-bottom: 80px;
+    }
+    /* blog end */
+
+    /* contact start */
+    .c_control3 {
+        padding-bottom: 80px;
+    }
+    /* contact end */
+
+    /* footer top start */
+    .footer_wrapper {
+        text-align: center;
+        margin-bottom: 70px;
+    }
+    /* footer top end */
+
+}
+
+
+ /* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    /* headers start */
+    .menu ul li a {
+        margin-left: 20px;
+    }
+    /* headers end */
+
+    /* banner start */
+    .banner {
+        padding: 100px 0;
+    }
+    .common_txt h2 {
+        font-size: 50px;
+    }
+    .common_txt p {
+        padding-right: 65px;
+    }
+    /* banner end */
+
+    /* about start */
+    .about {
+        padding: 110px 0;
+    }
+    .about_txt {
+        margin-top: 0px;
+        padding-left: 50px;
+    }
+    .about_txt h2 {
+        font-size: 35px;
+        padding-right: 130px;
+    }
+    .about_txt p {
+        margin: 25px 0;
+        padding-right: 70px;
+    }
+    /* about end */
+
+    /* work start */
+    .work_txt {
+        margin-left: 35px;
+        margin-top: 0px;
+    }
+    .work_txt h2 {
+        font-size: 27px;
+        padding-right: 27px;
+    }
+    .work_txt p {
+        margin: 20px 0;
+        padding-right: 18px;
+    }
+    .work_btn {
+        padding-left: 0px;
+    }
+    /* work end */
+
+    /* testimonial start */
+    .ccp {
+        left: 185px;
+        bottom: 175px;
+    }
+    .ccn {
+        right: 206px;
+        bottom: 175px;
+    }
+    .test_slider {
+        margin-top: 0px;
+    }
+    .test_slider p {
+        padding-right: 100px;
+    }
+    /* testimonial end */
+
+
+}
+
+
+ /*Extra Large devices (desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    h1{
+        color: rgb(30, 255, 0);
+    }
+
+
+}
+
+
+
+
+ /* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}
